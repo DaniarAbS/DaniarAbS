@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I am Daniyar
+
+📍 I'm from Kazakhstan (Taraz)
+🌱I'm currently learning Node.js deeply and React.js additionally
+🔭I'm currently studying at Jambyl Innovation High College
+📫You can reach me by dropping an email at daniarabsat416@gmail.com
 
 <!--
 **DaniarAbS/DaniarAbS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
